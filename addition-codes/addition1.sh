@@ -12,6 +12,5 @@ sum=$((num1 + num2))
 
 
 echo "Sum: $sum"
+echo "Hello additions done"
 echo "hello pavan"
-
-
