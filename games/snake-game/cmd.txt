@@ -1,0 +1,11 @@
+Controls
+
+W – Move Up
+
+S – Move Down
+
+A – Move Left
+
+D – Move Right
+
+Q – Quit game
